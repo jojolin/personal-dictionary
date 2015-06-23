@@ -1,9 +1,9 @@
 # dictionary #
 
 * A very simple but powerful enough dictionary to lookup English words
-* Currently supports Only English to Chinese on linux.
+* Currently supports only English to Chinese on linux.
 * Writted in python.
-* Craw Meanning of English words from website and store it in the local dictionary.
+* Craw meanning of English words from website and store it in the local dictionary.
 * Want to get rid of adds of some dictionary? You can try this.
 
 
